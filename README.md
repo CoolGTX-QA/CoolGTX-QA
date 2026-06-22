@@ -82,10 +82,6 @@ I've **led QA for parallel releases with zero critical defects**, **mentored and
 <!-- ───────────── TOOLS DIVIDER ───────────── -->
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
-<p align="center">
-<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tools%20%26%20Technologies-0F172A?style=for-the-badge&labelColor=1E3A8A" height="38" alt="tools" />
-</p>
-
 <div align="center">
 
 **Bug & Test Management**
