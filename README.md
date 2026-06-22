@@ -90,25 +90,25 @@ I've **led QA for parallel releases with zero critical defects**, **mentored and
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![Mantis](https://img.shields.io/badge/Mantis-F6A724?style=for-the-badge&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-00A4E4?style=for-the-badge&logo=zephyr&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
-![Test-mo](https://img.shields.io/badge/Test--mo-6C5CE7?style=for-the-badge&logoColor=white)
+![Mantis](https://img.shields.io/badge/Mantis-F6A724?style=for-the-badge)
+![Zephyr](https://img.shields.io/badge/Zephyr-00A4E4?style=for-the-badge)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge)
+![Test-mo](https://img.shields.io/badge/Test--mo-6C5CE7?style=for-the-badge)
 
 **API & Network**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL Altair](https://img.shields.io/badge/GraphQL_Altair-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-FFA500?style=for-the-badge&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-FFA500?style=for-the-badge)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6464?style=for-the-badge&logo=browserstack&logoColor=white)
 
 **Platforms & Infrastructure**
 
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-![PIMCore](https://img.shields.io/badge/PIMCore-6428B4?style=for-the-badge&logoColor=white)
+![PIMCore](https://img.shields.io/badge/PIMCore-6428B4?style=for-the-badge)
 ![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=for-the-badge&logo=algolia&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Adobe Cloud CI](https://img.shields.io/badge/Adobe_Cloud_CI-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Cloud_CI-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 **Operating Systems**
 
@@ -116,7 +116,7 @@ I've **led QA for parallel releases with zero critical defects**, **mentored and
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 </div>
@@ -223,7 +223,7 @@ A modern **AI-powered Test Management Platform** for test cases, defects, QA wor
 </div>
 
 <!-- ───────────── ACHIEVEMENTS DIVIDER ───────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=44&section=header&text=%F0%9F%8F%86%20%20Achievements%20%26%20Education&fontSize=20&fontColor=0EA5E9&fontAlignY=52" width="100%" alt="achievements" />
+<h2>🏆 Achievements & Education</h2>
 
 <table>
 <tr><td valign="top" width="55%">
