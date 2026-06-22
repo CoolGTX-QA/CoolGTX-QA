@@ -225,21 +225,21 @@ A modern **AI-powered Test Management Platform** for test cases, defects, QA wor
 <!-- ───────────── PROFILE SUMMARY CARDS ───────────── -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GITHUB_USERNAME&theme=radical" width="100%" alt="profile summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoolGTX-QA&theme=radical" width="100%" alt="profile summary" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GITHUB_USERNAME&theme=radical" width="49%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GITHUB_USERNAME&theme=radical" width="49%" alt="most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoolGTX-QA&theme=radical" width="49%" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoolGTX-QA&theme=radical" width="49%" alt="most commit language" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GITHUB_USERNAME&theme=radical" width="49%" alt="stats summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GITHUB_USERNAME&theme=radical&utcOffset=5.5" width="49%" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoolGTX-QA&theme=radical" width="49%" alt="stats summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CoolGTX-QA&theme=radical&utcOffset=5.5" width="49%" alt="productive time" />
 
 </div>
 
