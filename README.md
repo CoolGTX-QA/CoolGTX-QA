@@ -1,278 +1,223 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     KULJEET SINGH · QA PROFILE
-     test suite: green. ship it.
+     KULJEET SINGH — Senior QA Engineer
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ───────────── MASTHEAD ───────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,60:115E59,100:84CC16&height=200&section=header&text=Kuljeet%20Singh&fontSize=58&fontColor=F8FAFC&animation=fadeIn&fontAlignY=42&desc=Senior%20Quality%20Assurance%20Engineer%20%C2%B7%20ISTQB%20Certified&descSize=18&descAlignY=68&descColor=A3E635" alt="header" />
-
-<!-- ───────────── PASSING TEST SUITE (the signature) ───────────── -->
 <div align="center">
 
-```diff
-$ qa run --profile kuljeet --verbose
+# Kuljeet Singh
 
-  PASS  manual.spec        ········· 4+ yrs · 9 platforms shipped
-  PASS  api.spec           ········· REST · GraphQL · payment flows
-  PASS  mobile.spec        ········· Android · iOS · tablet
-  PASS  ai-llm.spec        ········· prompt eval · output validation
-  PASS  process.spec       ········· CMMI-5 PPQA · Agile/Scrum
-  PASS  leadership.spec    ········· 3 parallel releases · 0 critical
+### Senior Quality Assurance Engineer · ISTQB Certified
 
-+ Test Suites: 6 passed, 6 total
-+ Domains:     E-commerce · FinTech · Gaming · Healthcare · AI
-+ Status:      ready for release ✓
-- Defects:     found before you did.
-```
+Manual · Automation-Ready · API · Mobile · Web · AI/LLM Testing
+4+ years across E-commerce, FinTech, Gaming, Healthcare & AI
 
-</div>
+<br/>
 
-<!-- ───────────── HANDLES ───────────── -->
-<div align="center">
-
-[![ISTQB](https://img.shields.io/badge/ISTQB-CTFL_Certified-115E59?style=flat-square&labelColor=0F172A)](https://linkedin.com/in/kuljeet-singh-bugraptors)
-[![Experience](https://img.shields.io/badge/Experience-4%2B_Years-115E59?style=flat-square&labelColor=0F172A)](#)
-[![Location](https://img.shields.io/badge/Mohali-India_🇮🇳-115E59?style=flat-square&labelColor=0F172A)](#)
-[![Status](https://img.shields.io/badge/Status-Open_to_Work-84CC16?style=flat-square&labelColor=0F172A)](mailto:kuljeetsingh7896@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=kuljeetsingh&label=Profile%20Views&color=84CC16&style=flat-square&labelColor=0F172A)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuljeet-singh-bugraptors)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kuljeetsingh7896@gmail.com)
+[![Phone](https://img.shields.io/badge/+91_7896593436-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+917896593436)
+![Location](https://img.shields.io/badge/Mohali,_India-555?style=flat&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## `// whoami`
+## About
 
-> I'm a **Senior QA Engineer** who treats software the way a stress engineer treats a bridge — load it, twist it, find where it fails, then make sure it never fails on a real user.
+ISTQB-certified Senior QA Engineer with **4+ years** of experience in Manual, API, Mobile, and Web application testing across E-commerce, AI, FinTech, Gaming, and Healthcare domains. Proven expertise in end-to-end testing, regression strategy, defect management, and release validation within Agile/Scrum environments — with strong hands-on experience in API and GraphQL testing, cross-platform testing (Web, Android, iOS), and AI/LLM behavior evaluation. I work closely with cross-functional teams to ensure high-quality, scalable, and reliable software delivery.
 
-Over **4+ years** I've owned quality across **E-commerce, AI, FinTech, Gaming, and Healthcare** — from interpreting BRS/FRS into airtight test cases, to leading QA for parallel releases, to evaluating how large language models behave under pressure. I think in **test strategy, traceability, and defect economics**: the cheapest bug is the one caught before a single line of code ships.
+<br/>
 
-```yaml
-role:        Senior Quality Assurance Engineer
-certified:   ISTQB CTFL (2024)
-based_in:    Mohali, India
-disciplines: [ manual, api, mobile, web, ai-llm, game ]
-domains:     [ e-commerce, fintech, gaming, healthcare, ai, social ]
-philosophy:  "quality is measurable — RTM, metrics, and a green suite prove it"
-reachable:   kuljeetsingh7896@gmail.com
-```
+<div align="center">
+
+| Experience | Certification | Platforms Tested | Domains | Awards |
+|:---:|:---:|:---:|:---:|:---:|
+| 4+ Years | ISTQB CTFL | Web · Android · iOS | 5+ Industries | 10+ |
+
+</div>
 
 ---
 
-## `// capabilities`
+## Core Competencies
 
-<table>
-<tr>
-<td valign="top" width="50%">
+**Testing Disciplines**
+`Manual Testing` · `API & GraphQL Testing` · `Mobile Testing (Android / iOS / Tablet)` · `Web & Cross-Browser Testing` · `Magento / E-commerce Testing` · `Game Testing` · `AI / LLM Behavior Evaluation` · `Regression & Negative Testing` · `Smoke · Sanity · Integration Testing` · `UI · Compatibility · Localization Testing`
 
-**🧪 Testing Disciplines**
-```
-▸ Manual & Exploratory Testing
-▸ API & GraphQL Testing
-▸ Mobile (Android · iOS · Tablet)
-▸ Web & Cross-Browser
-▸ Magento / E-commerce
-▸ Game Testing
-▸ AI / LLM Behavior Evaluation
-▸ Regression & Negative
-▸ Smoke · Sanity · Integration
-▸ UI · Compatibility · Localization
-```
+**Process & Strategy**
+`Test Plans, Cases & Strategies` · `BRS / FRS Interpretation` · `RTM & Test Documentation` · `Defect Lifecycle Management` · `Release Validation & Sign-off` · `Impact Analysis` · `SDLC / STLC` · `Agile / Scrum` · `CMMI-5 Audits (PPQA)` · `Mentoring & QA Hiring`
 
-</td>
-<td valign="top" width="50%">
-
-**📐 Process & Strategy**
-```
-▸ Test Plans, Cases & Strategies
-▸ BRS / FRS Interpretation
-▸ RTM & Test Documentation
-▸ Defect Lifecycle Management
-▸ Release Validation & Sign-off
-▸ Impact Analysis
-▸ SDLC / STLC Best Practices
-▸ Agile / Scrum
-▸ CMMI-5 Audits (PPQA)
-▸ Mentoring & QA Interviewing
-```
-
-</td>
-</tr>
-</table>
+**Edge Specialties**
+`Payment Integrations (Apple Pay · Checkout.com)` · `Geo-Restriction & VPN Testing` · `OMS Sterling Order Placement` · `MDC Store/Warehouse Config` · `Salesforce & MS Dynamics Validation`
 
 ---
 
-## `// toolchain`
+## Tools & Technologies
 
 **Bug & Test Management**
 
-![Jira](https://img.shields.io/badge/Jira-0F172A?style=flat-square&logo=jira&logoColor=4F9EE8)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0F172A?style=flat-square&logo=azuredevops&logoColor=4F9EE8)
-![Linear](https://img.shields.io/badge/Linear-0F172A?style=flat-square&logo=linear&logoColor=A3A3F5)
-![ClickUp](https://img.shields.io/badge/ClickUp-0F172A?style=flat-square&logo=clickup&logoColor=B79CF5)
-![Mantis](https://img.shields.io/badge/Mantis-0F172A?style=flat-square&logo=mantis&logoColor=F6A724)
-![Zephyr](https://img.shields.io/badge/Zephyr-0F172A?style=flat-square&logo=zephyr&logoColor=4FC3E4)
-![TestRail](https://img.shields.io/badge/TestRail-0F172A?style=flat-square&logo=testrail&logoColor=84CC16)
-![Test-mo](https://img.shields.io/badge/Test--mo-0F172A?style=flat-square&logoColor=A78BFA)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat&logo=linear&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
+![Mantis](https://img.shields.io/badge/Mantis-F6A724?style=flat&logoColor=white)
+![Zephyr](https://img.shields.io/badge/Zephyr-00A4E4?style=flat&logo=zephyr&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat&logo=testrail&logoColor=white)
+![Test-mo](https://img.shields.io/badge/Test--mo-6C5CE7?style=flat&logoColor=white)
 
 **API & Network**
 
-![Postman](https://img.shields.io/badge/Postman-0F172A?style=flat-square&logo=postman&logoColor=FF6C37)
-![GraphQL Altair](https://img.shields.io/badge/Altair-0F172A?style=flat-square&logo=graphql&logoColor=E535AB)
-![Charles](https://img.shields.io/badge/Charles_Proxy-0F172A?style=flat-square&logoColor=FFA500)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-0F172A?style=flat-square&logo=browserstack&logoColor=FF6464)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![GraphQL Altair](https://img.shields.io/badge/GraphQL_Altair-E10098?style=flat&logo=graphql&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-FFA500?style=flat&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6464?style=flat&logo=browserstack&logoColor=white)
 
-**Platforms & Infra**
+**Platforms & Infrastructure**
 
-![Magento](https://img.shields.io/badge/Magento-0F172A?style=flat-square&logo=magento&logoColor=EE672F)
-![PIMCore](https://img.shields.io/badge/PIMCore-0F172A?style=flat-square&logoColor=8B5CF6)
-![Algolia](https://img.shields.io/badge/Algolia-0F172A?style=flat-square&logo=algolia&logoColor=5468FF)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0F172A?style=flat-square&logo=rabbitmq&logoColor=FF6600)
-![Adobe Cloud CI](https://img.shields.io/badge/Adobe_Cloud_CI-0F172A?style=flat-square&logo=adobe&logoColor=FF0000)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=flat&logo=magento&logoColor=white)
+![PIMCore](https://img.shields.io/badge/PIMCore-6428B4?style=flat&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=flat&logo=algolia&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Adobe Cloud CI](https://img.shields.io/badge/Adobe_Cloud_CI-FF0000?style=flat&logo=adobe&logoColor=white)
 
 **Operating Systems**
 
-![Windows](https://img.shields.io/badge/Windows-0F172A?style=flat-square&logo=windows&logoColor=4F9EE8)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0F172A?style=flat-square&logo=ubuntu&logoColor=E95420)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FCC624)
-![macOS](https://img.shields.io/badge/macOS-0F172A?style=flat-square&logo=apple&logoColor=F8FAFC)
-![iOS](https://img.shields.io/badge/iOS-0F172A?style=flat-square&logo=ios&logoColor=F8FAFC)
-![Android](https://img.shields.io/badge/Android-0F172A?style=flat-square&logo=android&logoColor=3DDC84)
-
-> **Edge specialties:** Payment integrations (Apple Pay · Checkout.com) · Geo-restriction & VPN testing · OMS Sterling order placement · MDC store/warehouse config · Salesforce & MS Dynamics validation
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 ---
 
-## `// release log`
-
-A pipeline of the products I've kept stable, newest first.
+## Featured Projects
 
 <table>
 <tr><td valign="top" width="50%">
 
-### `[ AI ]` TwinMind · *QA Lead*
-AI productivity platform — Chrome Extension, Android, iOS. Evaluated LLM request types (queries, prompts, follow-ups, edge cases), validated AI output against intent, ran regression across **15+ scenarios per release** to keep model updates from regressing behavior.
+### TwinMind — *Senior QA Lead*
+AI-powered productivity platform (Chrome Extension, Android, iOS). Evaluated LLM request types (queries, prompts, follow-ups, edge cases), validated AI-generated output against intent and usability, and ran regression across **15+ scenarios per release** to ensure model updates didn't degrade existing behavior.
+
+`AI/LLM` · `Chrome Extension` · `Mobile`
 
 </td><td valign="top" width="50%">
 
-### `[ Events ]` Venivibe · *QA Lead*
-Event management & ticketing — Web, Android, iOS. Translated Figma into test cases, validated newly built APIs, and ran end-to-end coverage across event creation, registration, ticketing & attendee flows.
+### Venivibe — *Senior QA Lead*
+Event management & ticketing platform (Web, Android, iOS). Translated Figma designs into test cases, validated newly developed APIs and integrations, and conducted end-to-end testing across event creation, registration, ticketing, and attendee workflows.
+
+`Web` · `Android` · `iOS`
 
 </td></tr>
 <tr><td valign="top" width="50%">
 
-### `[ Logistics ]` Tevio · *QA Lead*
-On-demand food delivery & dine-in — user app, vendor portal, admin panel. Led **3 parallel releases with zero critical defects**; owned geo-restriction, order lifecycle & slot-booking testing end to end.
+### Tevio — *Senior QA Lead*
+On-demand food delivery & dine-in ecosystem (user app, vendor portal, admin panel). Led QA for **3 parallel releases with zero critical defects**; owned geo-restriction, order-lifecycle, and slot-booking testing end to end.
+
+`Web` · `Android` · `iOS`
 
 </td><td valign="top" width="50%">
 
-### `[ Gaming ]` WinZO · *QA Engineer*
-Real-money skill-gaming — Android, iOS. Tested country-based access controls, VPN edge cases & mid-session location changes to enforce regional compliance without breaking UX.
+### WinZO — *QA Engineer*
+Real-money skill-based gaming platform (Android, iOS). Tested country-based access controls, VPN edge cases, and mid-session location changes to enforce regional compliance without breaking the user experience.
+
+`Android` · `iOS` · `Compliance`
 
 </td></tr>
 <tr><td valign="top" width="50%">
 
-### `[ E-com ]` Alshaya Group · *E-Com QA*
-Multi-national Middle East retail — Magento, Drupal, AEM. Led brand regression/sanity, configured prices & promotions per market, validated OMS Sterling order placement & MDC warehouse setup.
+### Alshaya Group — *E-Com QA Engineer*
+Multi-national Middle Eastern e-commerce (Magento, Drupal, AEM). Led brand regression & sanity testing, configured prices/quantities and market promotions, and validated OMS Sterling order placement and MDC warehouse setup.
+
+`Magento` · `Drupal` · `AEM`
 
 </td><td valign="top" width="50%">
 
-### `[ SaaS ]` Allego · *Associate QA*
-Sales enablement — iOS, Android, Web. Functional, regression & localization testing; verified leads & opportunities across Salesforce and MS Dynamics.
+### Allego — *Associate QA Engineer*
+Sales enablement platform (iOS, Android, Web). Performed functional, regression, and localization testing; verified leads and opportunities across Salesforce and MS Dynamics.
+
+`iOS` · `Android` · `Web`
 
 </td></tr>
 <tr><td valign="top" width="50%">
 
-### `[ Health ]` Cerina · *Associate QA*
-CBT mental-health program — Web, Android, iOS, tablet. Tested auth/authorization & data-integration APIs; ran smoke, sanity & regression on every release build.
+### Cerina — *Associate QA Engineer*
+CBT-based mental health care program (Web, Android, iOS, Tablet). Tested authentication/authorization and data-integration APIs; ran smoke, sanity, and regression on every release build.
+
+`Web` · `Android` · `iOS`
 
 </td><td valign="top" width="50%">
 
-### `[ E-com ]` Formee · *Associate QA*
-Fashion & lifestyle commerce — iOS, Android. Functional, smoke & sanity testing across end-user and vendor modules; verified UI/UX consistency across platforms.
+### Formee — *Associate QA Engineer*
+Fashion & lifestyle e-commerce app (iOS, Android). Performed functional, smoke, and sanity testing across end-user and vendor modules; verified UI/UX consistency across platforms.
+
+`iOS` · `Android`
 
 </td></tr>
 </table>
 
 ---
 
-## `// experiments` — building AI into QA
+## AI Innovation Projects
 
 <table>
 <tr><td valign="top" width="33%">
 
-**🧰 QA Engineer Toolkit**
-An AI toolkit that generates test cases, bug reports, RTM, test scenarios & QA docs from optimized ChatGPT/Claude prompts — turning repetitive QA writing into reusable, prompt-engineered workflows.
+### QA Engineer Toolkit
+An AI-powered toolkit that generates test cases, bug reports, RTM, test scenarios, and QA documentation using optimized prompts for ChatGPT and Claude — improving productivity through reusable, prompt-engineered workflows.
 
 </td><td valign="top" width="33%">
 
-**🔐 GraphZen RAG System**
-A secure RAG document-query system on LightRAG + Ollama + local LLMs (Antigravity, LCNC). Semantic retrieval, contextual answers & AES-encrypted document handling, deployed on Lovable for anywhere access.
+### GraphZen RAG System
+A secure RAG-based document query system built on LightRAG, Ollama, and local LLM infrastructure (Antigravity, LCNC). Features semantic retrieval, contextual AI responses, and AES-encrypted document handling, deployed on Lovable.
 
 </td><td valign="top" width="33%">
 
-**🚦 TestFlare AI**
-An AI test-management platform with AI-generated test cases, autonomous testing workflows, predictive analytics, risk heat maps & intelligent QA reporting — built for enterprise traceability and release confidence.
+### TestFlare AI
+A modern AI-powered test management platform with AI-generated test cases, autonomous testing workflows, predictive analytics, risk heat maps, and intelligent QA reporting — built for enterprise traceability and release confidence.
 
 </td></tr>
 </table>
 
 ---
 
-## `// commendations`
+## Achievements & Education
 
 <table>
 <tr><td valign="top" width="55%">
 
-**Awards & recognition**
-```
-★ Employee of the Year ················ 2024
-★ Best Mentor of the Quarter ·········· 2025
-★ Innovator of the Quarter ··········· Q1 2025
-★ Best Team Player of the Quarter ····· Q2 2024
-★ Employee of the Quarter ············· Q4 2023
-★ Highest Brownie Point (3×) ·· Q1·Q2·Q3 2024
-★ Client MVP — sponsored on-site visit
-```
+**Awards & Recognition**
+
+- Employee of the Year — 2024
+- Best Mentor of the Quarter — 2025
+- Innovator of the Quarter — Q1 2025
+- Best Team Player of the Quarter — Q2 2024
+- Employee of the Quarter — Q4 2023
+- Highest Brownie Point Achiever (3×) — Q1, Q2, Q3 2024
+- Client MVP — company-sponsored 1-week on-site client visit
+- Multiple client appreciations
 
 </td><td valign="top" width="45%">
 
-**Education & certs**
-```
-ISTQB CTFL Certified ········· 2024
-MCA — Post Graduate ···· 2019–2021
-BCA — Graduate ········· 2016–2019
-```
-**Also fluent in:** turning vague repro steps into a one-click reproducible bug.
+**Education & Certifications**
+
+- **ISTQB CTFL Certified** — 2024
+- **MCA** (Post Graduate) — 2019–2021
+- **BCA** (Graduate) — 2016–2019
+
+**Languages & Domains**
+
+E-commerce · FinTech · Gaming · Healthcare · AI · Social
 
 </td></tr>
-</table>
-
----
-
-## `// principles`
-
-<table>
-<tr>
-<td align="center" width="33%"><br><b>🔎 Shift left</b><br><br>Catch defects in design and requirements, not in production. The earliest bug is the cheapest one.<br><br></td>
-<td align="center" width="33%"><br><b>📊 Make quality measurable</b><br><br>RTM, defect metrics and a green suite aren't paperwork — they're the evidence that a release is actually ready.<br><br></td>
-<td align="center" width="33%"><br><b>🤝 Quality is a team sport</b><br><br>Tight loops with devs, product & stakeholders turn "whose bug is this" into "ship with confidence."<br><br></td>
-</tr>
 </table>
 
 ---
 
 <div align="center">
 
-## `// connect`
+*Open to Senior QA, QA Lead, and Automation opportunities — remote or on-site.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=4F9EE8)](https://linkedin.com/in/kuljeet-singh-bugraptors)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kuljeetsingh7896@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-0F172A?style=for-the-badge&logo=phone&logoColor=84CC16)](tel:+917896593436)
-
-<br/>
-
-`exit code 0 — no defects found. open to QA Lead, Automation & remote roles.`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:84CC16,50:115E59,100:0F172A&height=100&section=footer" alt="footer" />
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuljeet-singh-bugraptors)
+[![Email](https://img.shields.io/badge/Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuljeetsingh7896@gmail.com)
 
 </div>
