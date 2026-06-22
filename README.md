@@ -80,7 +80,11 @@ I've **led QA for parallel releases with zero critical defects**, **mentored and
 `Payment Integrations (Apple Pay · Checkout.com)` · `Geo-Restriction & VPN Testing` · `OMS Sterling Order Placement` · `MDC Store / Warehouse Config` · `Salesforce & MS Dynamics Validation`
 
 <!-- ───────────── TOOLS DIVIDER ───────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=44&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20%20Tools%20%26%20Technologies&fontSize=20&fontColor=0EA5E9&fontAlignY=52" width="100%" alt="tools" />
+<h2 align="center">🛠️ Tools & Technologies</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20Tools%20%26%20Technologies-0F172A?style=for-the-badge&labelColor=1E3A8A" height="38" alt="tools" />
+</p>
 
 <div align="center">
 
